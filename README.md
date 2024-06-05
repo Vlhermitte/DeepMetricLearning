@@ -68,6 +68,8 @@ where `d(a, p)` is the distance between the anchor and the positive example,
 The t-SNE visualization will produce a scatter plot showing the clustering of digit embeddings. 
 The colors represent different digit labels, allowing you to see how well the model has learned to cluster similar digits together.
 
+![t-SNE Visualization](result.png)
+
 
 ## References
 
