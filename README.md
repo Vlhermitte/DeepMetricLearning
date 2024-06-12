@@ -1,6 +1,7 @@
 # Metric Learning on MNIST with Triplet Loss
 
-This project demonstrates self-supervised learning on the MNIST dataset using triplet loss. The goal is to train a model to differentiate between similar and dissimilar pairs of data points. The triplet consists of an anchor, a positive example (similar to the anchor), and a negative example (dissimilar to the anchor).
+This project demonstrates metric learning on the MNIST dataset using triplet loss. The goal is to train a model to differentiate between similar and dissimilar pairs of data points. 
+The triplet consists of an anchor, a positive example (similar to the anchor), and a negative example (dissimilar to the anchor).
 
 ## Project Structure
 
